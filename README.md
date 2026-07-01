@@ -85,7 +85,7 @@
 | 💬 **Real-Time Chat Application** | MERN stack chat app with secure JWT authentication and instant messaging via Socket.IO | `MongoDB` `Express.js` `React.js` `Node.js` `Socket.IO` `JWT` |
 | 🎓 **Student Result Management System** | Web platform automating academic result processing with role-based access for Admin, Faculty & Students | `React.js` `Node.js` `Express.js` `MongoDB` `JWT` |
 | 📈 **Stock Movement Prediction System** | 6-model ensemble system predicting next-day stock trend using engineered technical indicators | `Python` `TensorFlow` `Scikit-Learn` `XGBoost` `Streamlit` |
-| 🪨 **Drill Core Lithology Classifier** | ML system automating lithology classification from drill core images using supervised learning | `Python` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` |
+| 🪨 **Automated Lithology Classification System.** | ML system automating lithology classification from drill core images using supervised learning | `Python` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` |
 
 </div>
 
