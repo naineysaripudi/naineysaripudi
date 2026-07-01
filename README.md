@@ -132,7 +132,7 @@
 
 ---
 
-### 🪨 Drill Core Lithology Classification System
+### 🪨 Automated Lithology Classification System.
 
 > Machine learning pipeline that automates geoscience classification tasks from raw drill core images.
 
